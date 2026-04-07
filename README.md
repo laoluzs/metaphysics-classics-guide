@@ -89,6 +89,8 @@
 - `references/bazi-personality-analysis.md`：八字性格倾向分析指南
 - `references/bazi-yongshen-analysis.md`：八字用神分析指南
 - `references/bazi-geju-analysis.md`：八字格局分析指南
+- `references/bazi-shishen-combination.md`：十神组合分析指南
+- `references/bazi-family-analysis.md`：八字家庭关系分析指南
 - `references/divination-rules.md`：占卜规则摘要
 - `references/divination-question-guide.md`：占卜问法指南
 - `references/divination-scenarios.md`：占卜场景指南
@@ -96,6 +98,8 @@
 - `references/divination-career-analysis.md`：占卜事业问题分析指南
 - `references/divination-decision-analysis.md`：占卜决策问题分析指南
 - `references/divination-yes-no-analysis.md`：占卜是否类问题分析指南
+- `references/divination-third-party-analysis.md`：占卜第三方因素分析指南
+- `references/divination-reconciliation-analysis.md`：占卜复合与和解分析指南
 - `references/divination-timing-analysis.md`：占卜时间点分析指南
 - `references/divination-obstacle-analysis.md`：占卜阻力点分析指南
 - `references/fengshui-rules.md`：风水规则摘要
@@ -104,14 +108,18 @@
 - `references/fengshui-office-analysis.md`：办公空间风水分析指南
 - `references/fengshui-shop-analysis.md`：店铺风水分析指南
 - `references/fengshui-house-analysis.md`：住宅风水分析指南
+- `references/fengshui-bedroom-analysis.md`：卧室风水分析指南
+- `references/fengshui-kitchen-analysis.md`：厨房风水分析指南
 - `references/trend-scenarios.md`：走势场景指南
 - `references/trend-career.md`：事业走势分析指南
 - `references/trend-relationship.md`：感情走势分析指南
 - `references/trend-wealth.md`：财运走势分析指南
 - `references/trend-project.md`：项目走势分析指南
+- `references/trend-study.md`：学业走势分析指南
 - `references/analysis-examples.md`：分析示例库
 - `references/examples-bazi-advanced.md`：八字进阶示例库
 - `references/examples-divination-advanced.md`：占卜进阶示例库
+- `references/examples-fengshui-advanced.md`：风水进阶示例库
 
 ## 安装教程
 
