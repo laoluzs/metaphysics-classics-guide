@@ -24,6 +24,7 @@
 - **多场景覆盖**：支持导读、命理、占卜、走势、风水等方向
 - **中文友好**：输入模板、触发词、输出模板都面向中文使用场景设计
 - **适合公开发布**：保留必要边界说明，方便用于开源传播与复用
+- **可持续迭代**：已整理同类开源项目可吸收点，并预留后续规则层 / 计算层升级空间
 
 ## 适用书目
 
@@ -72,6 +73,9 @@
 - `references/fengshui-analysis-template.md`：风水分析模板
 - `references/classical-analysis-basis.md`：经典依据层整理
 - `references/interactive-intake.md`：交互式信息采集建议
+- `references/learning-resources.md`：学习与延伸资源
+- `references/external-inspiration-map.md`：同类开源项目可吸收点整理
+- `ROADMAP.md`：后续迭代路线图
 
 ## 安装教程
 
