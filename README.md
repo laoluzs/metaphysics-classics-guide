@@ -82,6 +82,7 @@
 - `references/book-map.md`：书目地图与阅读路线
 - `references/safety-and-positioning.md`：安全边界与公开定位
 - `references/output-templates.md`：常用输出模板
+- `references/bazi-analysis-template.md`：八字 / 四柱 / 命盘分析模板
 
 ## 安装教程
 
@@ -116,11 +117,13 @@ git clone https://github.com/lupengbo/metaphysics-classics-guide.git
 - 帮我算八字
 - 看一下这个四柱命盘
 - 帮我排八字并做分析
+- 按八字帮我看一下事业和财运
 
 ## v1.1.0
 
 - 增加免责声明
 - 补充玄学分析与走势解读场景说明
+- 增加八字 / 四柱 / 命盘分析模板
 - 优化公开发布时的边界表达
 
 ## Disclaimer
