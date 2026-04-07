@@ -82,6 +82,37 @@
 - `references/safety-and-positioning.md`：安全边界与公开定位
 - `references/output-templates.md`：常用输出模板
 
+## 安装教程
+
+### 方式一：直接使用仓库源码
+
+把本仓库放到你的 skills 目录下即可，例如：
+
+```bash
+git clone https://github.com/lupengbo/metaphysics-classics-guide.git
+```
+
+放入你自己的技能目录后，确保目录结构完整：
+
+- `SKILL.md`
+- `references/book-map.md`
+- `references/safety-and-positioning.md`
+- `references/output-templates.md`
+
+### 方式二：使用 `.skill` 打包文件
+
+如果你已经有打包好的 `.skill` 文件，可以直接导入到对应支持 Skill 的 Agent / OpenClaw 环境中。
+
+### 使用方式
+
+安装完成后，可直接用下面这类请求触发：
+
+- 帮我梳理这些玄学经典的阅读顺序
+- 对比《渊海子平》和《滴天髓》
+- 解释一下《梅花易数》的核心思路
+- 按传统术数框架分析一下这个问题
+- 帮我做一份命理/走势分析草稿
+
 ## v1.1.0
 
 - 增加免责声明
