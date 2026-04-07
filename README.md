@@ -1,5 +1,10 @@
 # metaphysics-classics-guide
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-purple)
+![AgentSkills](https://img.shields.io/badge/AgentSkills-Compatible-blue)
+![Standard](https://img.shields.io/badge/Standard-OpenClaw-green)
+
 一个面向中文用户的 **传统术数经典导读 Skill**。
 
 它不是“保证应验”的工具，而是一个更适合公开使用、学习研究、知识整理与传统术数分析辅助的技能包，重点帮助用户：
