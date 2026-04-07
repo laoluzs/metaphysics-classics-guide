@@ -79,6 +79,7 @@
 - `references/mingli-rules.md`：命理规则摘要
 - `references/divination-rules.md`：占卜规则摘要
 - `references/fengshui-rules.md`：风水规则摘要
+- `references/analysis-examples.md`：分析示例库
 - `ROADMAP.md`：后续迭代路线图
 
 ## 安装教程
@@ -122,6 +123,7 @@ git clone https://github.com/lupengbo/metaphysics-classics-guide.git
 - 增加交互式信息采集建议
 - 增加术语库
 - 增加命理 / 占卜 / 风水规则摘要
+- 增加分析示例库
 - 优化公开发布时的边界表达
 
 ## Disclaimer
